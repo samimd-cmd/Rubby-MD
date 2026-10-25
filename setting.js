@@ -1,31 +1,31 @@
 /**
-╭━━━〔 ୨ৎ RUBBY MULTI DEVICE ୨ৎ 〕━━━╮
+╭━━━〔 ୨ৎ SAMI MD MULTI DEVICE ୨ৎ 〕━━━╮
 ┇
-┇       ✦ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗥𝗨𝗕𝗕𝗬 ✦
+┇       ✦ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 SAMI MD ✦
 ┇          ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡
 ┇
-┇      ░▒▓█ 𝗥 𝗨 𝗕 𝗕 𝗬 █▓▒░
+┇      ░▒▓█ SAMI MD █▓▒░
 ┇          MULTI DEVICE SYSTEM
 ┇
 ┇  ──────── ୨୧ ────────
 ┇        ♡ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗜𝗡𝗙𝗢 ♡
 ┇  ──────── ୨୧ ────────
-┇   ↳ Creator  : Kyuu
-┇   ↳ GitHub   : github.com/KyuuX444
-┇   ↳ YouTube  : MommyKyuu
-┇   ↳ Website  : https://api.kyzzz.xyz
+┇   ↳ Creator  : SAMI
+┇   ↳ GitHub   : github.com/samimd-cmd
+┇   ↳ YouTube  : SAMI MD
+┇   ↳ Website  : https://whatsapp.com/channel/0029Vb9nIak5Ui2flkOa4k2f
 ┇
 ┇  ════════ ◇ ════════
 ┇        📡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
 ┇  ════════ ◇ ════════
 ┇   ↳ Updates & Announcements
-┇   ↳ https://whatsapp.com/channel/0029VbDXYlKDJ6H1D7Dm0f13
+┇   ↳ https://whatsapp.com/channel/0029Vb9nIak5Ui2flkOa4k2f
 ┇
 ┇  ┌─────── ⟡ ───────┐
 ┇          ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗙𝗢
 ┇  └─────── ⟡ ───────┘
 ┇   • Runtime  : Node.js
-┇   • Engine   : Ruby-Baileys
+┇   • Engine   : SAMI-Baileys
 ┇   • Platform : Linux
 ┇   • Mode     : WhatsApp Multi Device
 ┇
@@ -37,23 +37,23 @@
 ┇   › Automatic Plugin Loader
 ┇   › Lightweight & Fast
 ┇
-┇       ୨ৎ made with love by Kyuu ୨ৎ
-┇          ♡ RUBBY • 2026 ♡
+┇       ୨ৎ made with love by SAMI ୨ৎ
+┇          ♡ SAMI MD • 2026 ♡
 ┇
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 */
 
-global.botName = 'Rubby Multi Device'
-global.owner = ['628xxxxxxxxxx'] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
+global.botName = 'SAMI MD Multi Device'
+global.owner = ['923261154942'] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
 global.mode = 'public' // 'public' atau 'self'
-global.noBot = '628xxxxxxxxxx' // Nomor WhatsApp bot untuk pairing code
-global.customPairingCode = 'RUBBYMD1'
+global.noBot = '923261154942' // Nomor WhatsApp bot untuk pairing code
+global.customPairingCode = 'SAMIMD56'
 global.botVersion = '1.5.0'
-global.botCreator = 'Kyuu'
-global.packname = 'Rubby Multi Device'
-global.author = 'Kyuu'
+global.botCreator = 'SAMI'
+global.packname = 'SAMI Multi Device'
+global.author = 'SAMI'
 global.thumb = 'media/thumb.jpg'
-global.website = 'https://api.kyzzz.xyz'
+global.website = 'https://whatsapp.com/channel/0029Vb9nIak5Ui2flkOa4k2f'
 
 global.mess = {
   wait: '⏳ Sedang diproses...',
